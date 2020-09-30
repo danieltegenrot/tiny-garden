@@ -1,0 +1,10 @@
+.pot-row {
+    display: flex;
+    justify-content: center;
+    margin-top: -45px;
+}
+
+.inventory {
+    margin-top: 5%;
+    text-align: center;
+}
